@@ -1,8 +1,12 @@
 
-description: Blog
-name: Dominic
+name: Dominic Guri
 url: "https://dominicguri.com"
 theme: jekyll-theme-minimal
+
+description: Engineering, Research, Math, etc.
+twitter_username: DominicGuri
+github_username: tradeA
+
 
 exclude: [LICENSE, CNAME, README.md, .gitignore, Gemfile, Gemfile.lock]
 

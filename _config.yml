@@ -1,1 +1,8 @@
+
+description: Blog
+name: Dominic
+url: "https://dominicguri.com"
 theme: jekyll-theme-minimal
+
+exclude: [LICENSE, CNAME, README.md, .gitignore, Gemfile, Gemfile.lock]
+

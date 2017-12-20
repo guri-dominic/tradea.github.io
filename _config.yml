@@ -1,12 +1,21 @@
+<<<<<<< HEAD
 
 name: Dominic Guri
 url: "https://dominicguri.com"
 theme: jekyll-theme-minimal
 
+=======
+theme: jekyll-theme-minimal
+
+title: Dominic Guri
+>>>>>>> 69e39a3f78a6b29f38a4f8467c6823a6127c98c9
 description: Engineering, Research, Math, etc.
 twitter_username: DominicGuri
 github_username: tradeA
 
+<<<<<<< HEAD
 
 exclude: [LICENSE, CNAME, README.md, .gitignore, Gemfile, Gemfile.lock]
 
+=======
+>>>>>>> 69e39a3f78a6b29f38a4f8467c6823a6127c98c9
